@@ -1,0 +1,5 @@
+¿Qué fue lo que más se te facilitó de la implementación de la vista? 
+Obtener la informacion de la API. Con lo que habíamos visto en clase y lo investigado, en realidad no fue tan complicado lograr obtener la inforamcion de PokeAPI. Fue un poco engañoso el uso del JSON Array para obtener los datos, pero nada digno de mencionar.
+
+¿Qué fue lo que más se te dificultó de la implementación de la vista?
+El diseño. Use cosas muy básicas porque no tengo aún claro cómo hacer vistas que se vean muy muy bien. Tenía una idea completamente diferente de cómo me gustaría que se viera la actividad pero no pude concretarla y me fui a lo más básico. Cumple con MD, me parece, en el sentido más simple. 
